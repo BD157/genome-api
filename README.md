@@ -1,6 +1,7 @@
 # Genome Clustering & Variant Classification API
 
-Application for clustering and classifying SARS-CoV-2 genome sequences.
+Application for clustering and classifying SARS-CoV-2 genome sequences. This app allows users to input RNA sequences and instantly receive either a predicted variant classification or an assigned cluster ID based on sequence similarity. It combines a FastAPI backend for processing and a Streamlit frontend for easy interaction.
+
 
 ## Local Setup
 
